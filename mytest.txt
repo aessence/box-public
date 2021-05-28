@@ -1,0 +1,6 @@
+This is a test
+  - it uses double-space intents
+  - Lines wrap (softwrap):
+Als we in het basis pakket alleen diensten/apps stoppen die 'basis' zijn en door Auromate+TPP worden ondersteund, dan blijven de kosten per managed werkplek ook beperkt. Add-ons kunnen wel, bijvoorbeeld bedrijfs-apps (LOB).
+
+The End
